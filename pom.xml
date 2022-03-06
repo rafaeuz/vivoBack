@@ -14,9 +14,9 @@
 	<name>clientes</name>
 	<description>API clientes</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+<!--	<properties>-->
+<!--		<java.version>11</java.version>-->
+<!--	</properties>-->
 
 	<dependencies>
 <!--		<dependency>-->
