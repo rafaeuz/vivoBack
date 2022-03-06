@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.List;
 
-@CrossOrigin(origins = "https://teste-vivo-front.herokuapp.com/")
+@CrossOrigin(origins = "https://teste-vivo-frontend.herokuapp.com/")
 @RestController
 @RequestMapping("/clientes")
 public class ClienteController {
